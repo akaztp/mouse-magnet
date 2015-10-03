@@ -1,0 +1,42 @@
+﻿
+#LogoArea {
+  vertical-align: top;
+  padding: 30px 30px 30px 15px;
+  position: relative; }
+  #LogoArea
+ul#ztp-photo {
+    margin: 0;
+    width: 128px;
+    height: 128px;
+    position: relative; }
+    #LogoArea
+ul#ztp-photo
+li {
+      display: block;
+      position: absolute; }
+      #LogoArea
+ul#ztp-photo
+li
+img {
+        width: 64px;
+        height: 64px; }
+    #LogoArea
+ul#ztp-photo
+li:nth-child(1) {
+      left: 0px;
+      top: 0px; }
+    #LogoArea
+ul#ztp-photo
+li:nth-child(2) {
+      left: 64px;
+      top: 0px; }
+    #LogoArea
+ul#ztp-photo
+li:nth-child(3) {
+      left: 0px;
+      top: 64px; }
+    #LogoArea
+ul#ztp-photo
+li:nth-child(4) {
+      left: 64px;
+      top: 64px; }
