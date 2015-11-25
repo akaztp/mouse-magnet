@@ -1,23 +1,22 @@
 {
-  "name": "mouse-magnet",
-  "description": "Attract and repel with your pointer in web pages.",
-  "main": "mouse-magnet.js",
-  "authors": [
-    "José Proença"
-  ],
-  "license": "",
-  "homepage": "https://github.com/akaztp/mouse-magnet",
-  "moduleType": [
-    "amd"
-  ],
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
+    "name": "mouse-magnet",
+    "description": "Attract and repel with your pointer in web pages.",
+    "main": "mouse-magnet.js",
+    "authors": [
+        "José Proença"
+    ],
+    "license": "",
+    "homepage": "https://github.com/akaztp/mouse-magnet",
+    "moduleType": [
+        "amd"
+    ],
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "bower_components",
+        "test",
+        "bundleconfig.json"
+    ],
   "dependencies": {
     "physics": "jonobr1/Physics"
   }
