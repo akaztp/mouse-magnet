@@ -19,6 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "physics": "https://raw.githubusercontent.com/jonobr1/Physics/master/build/physics.min.js"
+    "physics": "jonobr1/Physics"
   }
 }
