@@ -1,14 +1,14 @@
 {
   "name": "mouse-magnet",
   "description": "Attract and repel with your pointer in web pages.",
-  "main": "mouse-magnet.min.js",
+  "main": "mouse-magnet.js",
   "authors": [
     "José Proença"
   ],
-  "license": "MIT",
+  "license": "",
   "homepage": "https://github.com/akaztp/mouse-magnet",
   "moduleType": [
-    "globals"
+    "amd"
   ],
   "private": true,
   "ignore": [
