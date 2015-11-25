@@ -1,7 +1,7 @@
 {
   "name": "mouse-magnet",
   "description": "Attract and repel with your pointer in web pages.",
-  "main": "mouse-magnet.js",
+  "main": "mouse-magnet.min.js",
   "authors": [
     "José Proença"
   ],

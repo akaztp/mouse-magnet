@@ -1,0 +1,24 @@
+{
+    "name": "mouse-magnet-test",
+    "description": "Attract and repel with your pointer in web pages.",
+    "authors": [
+        "José Proença"
+    ],
+    "license": "",
+    "homepage": "https://github.com/akaztp/mouse-magnet",
+    "moduleType": [
+        "globals"
+    ],
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules", 
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "requirejs": "^2.1.22",
+        "jquery": "^2.1.4"
+    }
+}
